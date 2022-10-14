@@ -1,0 +1,8 @@
+Dockerfile
+.Dockerfile
+.git
+.github
+.gitignore
+node_modules
+test
+tmp
